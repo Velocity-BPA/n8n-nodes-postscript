@@ -2,7 +2,7 @@
   "name": "n8n-nodes-postscript",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Postscript SMS marketing platform providing subscriber management, campaigns, automations, messaging, and event tracking for e-commerce.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -72,7 +72,8 @@
     "n8n-core": "^1.0.0",
     "prettier": "^3.2.4",
     "ts-jest": "^29.1.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "n8n-workflow": "1.57.0"
   },
   "engines": {
     "node": ">=18.0.0"
